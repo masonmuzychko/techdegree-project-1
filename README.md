@@ -1,2 +1,2 @@
 # techdegree project 1
- first techdegree project
+ the number game
